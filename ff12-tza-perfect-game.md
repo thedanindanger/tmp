@@ -246,14 +246,14 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - 9x Water Stone (55% steal or 25% at L0 from Giza Rabbit)
 - 9x Fire Stone (55% steal or 40% at L0 from Hyena)
 
-##[W] Toam Hills
+ ## [W] Toam Hills
 
 - [SE] Blind (100%)
 - 8x Snake Skin (55% steal or 40% at L0 from Wildsnake)
 - 9x Wildsnake
 - 3x Large Feather (40% at L0 from Urstix)
 
-##[S] Starfall Field
+ ## [S] Starfall Field
 
 - 3x Molting (55% steal or 40% at L0 from Sleipnir)
 
@@ -687,7 +687,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [13] Killer Bow\* (75%, 32.5%)
 - [14] Wizard's Hat\* (75%, 32.5%)
 
-##[W] Central Junction
+ ## [W] Central Junction
 
 ![](https://i.imgur.com/EMEDMkc.png)
 
@@ -713,7 +713,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - Chain Urutan-Yensa
 
-##[NW] Primary Tank Complex
+ ## [NW] Primary Tank Complex
 
 ![](https://i.imgur.com/emFJ5ur.png)
 
@@ -723,7 +723,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [29] Wizard's Robes\* (75%, 40%)
 - [32] Linen Cuirass\* (75%, 40%)
 
-##[SW] Platform 2 - Refinery
+ ## [SW] Platform 2 - Refinery
 
 ![](https://i.imgur.com/ZzAnbfD.png)
 
@@ -882,7 +882,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
  # Zertinan Caverns
 
-##[W-SE] Sandfalls
+ ## [W-SE] Sandfalls
 
 - Rocks
 - Diamond Armlet (100%)
@@ -985,7 +985,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - Seeq bestiary
 
-##[NE] Rays of Ashen Light
+ ## [NE] Rays of Ashen Light
 
 ![](https://i.imgur.com/TyXZMs1.png)
 
@@ -1274,7 +1274,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - [NE] Withered Tree
 
-##[W] Warrior's Wash
+ ## [W] Warrior's Wash
 
 - (R) Rain Dancer (20% per entry)
 - 2x Storm Elemental (rain)
@@ -1802,7 +1802,7 @@ When Rains:
     - After Negalmuur, quit and load save to respawn or zone before XP/LP displayed
 - Wear Steel Polyens before entering hidden passage
 
-##[Hidden] Cold Distance
+ ## [Hidden] Cold Distance
 
 - Shell Shield (100%)
 - (R) Matriarch Bomb (20% per Oiling)
