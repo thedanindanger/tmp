@@ -48,7 +48,7 @@ define('modules/ctiPlusBridge',['ui.api.v1'],
                         UiApi.Logger.debug('CtiPlusBridge', 'CheckForCloudBridgeSkill', sessionData);
                         UiApi.Logger.debug('CtiPlusBridge', 'CheckForCloudBridgeSkill', encryptedData);
 
-                        plusBridgeWindow = window.open('http://localhost:5000/plusbridge/connect?sessiondata=' + encryptedData,
+                        plusBridgeWindow = window.open('http://localhost:59080/plusbridge/connect?sessiondata=' + encryptedData,
                             'Five9 Plus Bridge',
                             "width=400,height=400,left=10,top=10,menubar=no,resizable=no,location=no,scrollbars=no,status=no,toolbar=no");
                     }
@@ -115,3 +115,4 @@ define('3rdparty.bundle',[
       Init.onModelUnload();
     });
   });
+
